@@ -105,7 +105,7 @@ const Home = () =>{
 <p custom-agua-item="text" className={styles['text-31-7cfb75dcd51744a881d83344f21f8068']}   >Double tap. A magical new way to use Apple Watch.</p>
 </section>
 <section custom-agua-item="layer" className={styles['layer-86-91f341ac22ee42489c7f75a6d3db8882']}   >
-<section custom-agua-item="layer" className={styles['layer-87-954b10c8365347eea56b37458ba9d5ce']}   onClick={() => openInNewTab("https://www.apple.com/apple-watch-series-9/")}>
+<section custom-agua-item="layer" className={styles.homesection2button}   onClick={() => openInNewTab("https://www.apple.com/apple-watch-series-9/")}>
 <p custom-agua-item="text" className={styles['text-32-c9b7b867c4c94102b7dbf3f5799d0931']}   >Learn more</p>
 </section>
 <section custom-agua-item="layer" className={styles['layer-88-cb67c746db2b48de86519774e0a98be6']}   onClick={() => openInNewTab("https://www.apple.com/us/shop/goto/buy_watch/apple_watch_series_9")}>
@@ -115,7 +115,7 @@ const Home = () =>{
 </section>
 </section>
 <section custom-agua-item="layer" className={styles.homesection3}   >
-<section custom-agua-item="layer" className={styles['layer-89-0f9e9490566b4a579baf44d46e074609']}   >
+<section custom-agua-item="layer" className={styles.homesection3title}   >
 <section custom-agua-item="layer" className={styles['layer-90-e82ee23e54d8432889eb642f3b05973b']}   onClick={() => openInNewTab("https://www.apple.com/iphone-15-pro/")}>
 <p custom-agua-item="text" className={styles['text-34-bfc24e5575f147a29e5ca688e936ebf5']}   >iPhone 15 Pro</p>
 </section>
@@ -259,7 +259,7 @@ const Home = () =>{
 </section>
 </section>
 <section custom-agua-item="layer" className={styles.homesection5}   >
-<section custom-agua-item="layer" className={styles['layer-393-be5da2adeecb42b4bf97b0540c8df699']}   onClick={() => openInNewTab("https://tv.apple.com/us/movie/napoleon/umc.cmc.25k80oxl3vo69c8rimk8v81s1?itscg=10000&itsct=atv-apl_hp-stream_now--220622")}>
+<section custom-agua-item="layer" className={styles.homesection51}   onClick={() => openInNewTab("https://tv.apple.com/us/movie/napoleon/umc.cmc.25k80oxl3vo69c8rimk8v81s1?itscg=10000&itsct=atv-apl_hp-stream_now--220622")}>
 <section custom-agua-item="layer" className={styles['layer-209-871bafd8559344aba2dc63bf4da63543']}   >
 <section custom-agua-item="layer" className={styles['layer-872-a753efd739c7442ead9baefeb42ccc85']}   onClick={() => openInNewTab("https://tv.apple.com/us/movie/napoleon/umc.cmc.25k80oxl3vo69c8rimk8v81s1?itscg=10000&itsct=atv-apl_hp-stream_now--220622")}>
 <section custom-agua-item="layer" className={styles['layer-323-7f0aadc5c2a4400897d39494a6fe89cf']}   >
@@ -520,6 +520,7 @@ support.apple.com/kb/HT209218.</p>
 <section custom-agua-item="layer" className={styles['layer-396-41da594580604b0a926025a40ca1727a']}   >
 <p custom-agua-item="text" className={styles['text-155-46cf5a7ae193454f89370fcaea4a16f5']}   >Shop and Learn</p>
 </section>
+<section custom-agua-item="layer" className={styles['layer-601-ad10209574d643fc8964413ff7b383d0']}   >
 <section custom-agua-item="layer" className={styles['layer-397-0486a0412e2b42339edecf61ec5caf43']}   onClick={() => openInNewTab("https://www.apple.com/us/shop/goto/store")}>
 <p custom-agua-item="text" className={styles['text-156-477522d8f4b54aa3b378d410702dfe6d']}   >Store</p>
 </section>
@@ -554,10 +555,12 @@ support.apple.com/kb/HT209218.</p>
 <p custom-agua-item="text" className={styles['text-166-919e108037904673bdfe4bc71ddeb195']}   >Gift Cards</p>
 </section>
 </section>
+</section>
 <section custom-agua-item="layer" className={styles['layer-407-d844e98bc4194ec6b44f64f4fcbc5efd']}   >
 <section custom-agua-item="layer" className={styles['layer-408-f7a8473829654292bb67a34a750abf01']}   >
 <p custom-agua-item="text" className={styles['text-167-0321eac9729f4ac38ee3a4b82066547c']}   >Apple Wallet</p>
 </section>
+<section custom-agua-item="layer" className={styles['layer-602-203673e15c884f74a4647b4073f3716e']}   >
 <section custom-agua-item="layer" className={styles['layer-409-20023c19c05e42b7bb62aadd9e87d606']}   onClick={() => openInNewTab("https://www.apple.com/wallet/")}>
 <p custom-agua-item="text" className={styles['text-168-e528e339266749af8a27635f7ae5a0a8']}   >Wallet</p>
 </section>
@@ -572,11 +575,13 @@ support.apple.com/kb/HT209218.</p>
 </section>
 </section>
 </section>
+</section>
 <section custom-agua-item="layer" className={styles['layer-390-84d6c0e7709e43a2a8f144c93a43d4b1']}   >
 <section custom-agua-item="layer" className={styles['layer-413-79477f9b8ee9444fb3018cbdc4291355']}   >
 <section custom-agua-item="layer" className={styles['layer-422-d3712d023efd4fd9b35204ff2827d72f']}   >
 <p custom-agua-item="text" className={styles['text-172-45788e94616243f791ac9fef0f78a158']}   >Account</p>
 </section>
+<section custom-agua-item="layer" className={styles['layer-603-1331a6ca86784745ab40a3e705ce78f4']}   >
 <section custom-agua-item="layer" className={styles['layer-423-e30d48f1348b416e996326251dad09d8']}   onClick={() => openInNewTab("https://appleid.apple.com/us/")}>
 <p custom-agua-item="text" className={styles['text-173-2781bf7bce664586aa4cc88f028fc3d4']}   >Manage Your Apple ID</p>
 </section>
@@ -587,10 +592,12 @@ support.apple.com/kb/HT209218.</p>
 <p custom-agua-item="text" className={styles['text-175-d12c152586b749218cfde6e8ba6ccc2b']}   >iCloud.com</p>
 </section>
 </section>
+</section>
 <section custom-agua-item="layer" className={styles['layer-414-457036a883e6431abd503d9884cb9c0f']}   >
 <section custom-agua-item="layer" className={styles['layer-426-6729b6db1ea9479ca71b9423030e5a76']}   >
 <p custom-agua-item="text" className={styles['text-176-74044f89a417475cbfabaceb172dee55']}   >Entertainment</p>
 </section>
+<section custom-agua-item="layer" className={styles['layer-604-19b5553364d045a59bcbb07229b33ba1']}   >
 <section custom-agua-item="layer" className={styles['layer-427-352f7f551f1544b280cc7dc6063c444b']}   onClick={() => openInNewTab("https://www.apple.com/apple-one/")}>
 <p custom-agua-item="text" className={styles['text-177-c963c3f0d65946cf8cfbf175a69aae4f']}   >Apple One</p>
 </section>
@@ -620,11 +627,13 @@ support.apple.com/kb/HT209218.</p>
 </section>
 </section>
 </section>
+</section>
 <section custom-agua-item="layer" className={styles['layer-391-56c51bea6f1c4aa69d799c71abca03ff']}   >
 <section custom-agua-item="layer" className={styles['layer-415-f54449d4e7a548159eae3d07534396cb']}   >
 <section custom-agua-item="layer" className={styles['layer-436-2eff19b77cb64fe5ad3cd49752e8de58']}   >
 <p custom-agua-item="text" className={styles['text-186-9d8ced43d78b4fc980a13c59c220ccb0']}   >Apple Store</p>
 </section>
+<section custom-agua-item="layer" className={styles['layer-605-47cbd343994647ea83ebad6b673d6150']}   >
 <section custom-agua-item="layer" className={styles['layer-437-a2afe6f8128b46289c6b26b7d45861ac']}   onClick={() => openInNewTab("https://www.apple.com/retail/")}>
 <p custom-agua-item="text" className={styles['text-187-cf0adf6d0ccd4858847c6189313f7789']}   >Find a Store</p>
 </section>
@@ -660,11 +669,13 @@ support.apple.com/kb/HT209218.</p>
 </section>
 </section>
 </section>
+</section>
 <section custom-agua-item="layer" className={styles['layer-392-d4b4eea184ee4b53a740f02bf941e0e2']}   >
 <section custom-agua-item="layer" className={styles['layer-416-8c314682622b411c90ba976db94988e4']}   >
 <section custom-agua-item="layer" className={styles['layer-448-3a95555b36f54f07b1fbe1cb84f32ecf']}   >
 <p custom-agua-item="text" className={styles['text-198-c107887c4fea4e3187d149b744bf32b8']}   >For Business</p>
 </section>
+<section custom-agua-item="layer" className={styles['layer-606-7e1df8c6d3564e2a8bf649cf5b6ae45e']}   >
 <section custom-agua-item="layer" className={styles['layer-449-e8e93970369043eda78a30f21b806625']}   onClick={() => openInNewTab("https://www.apple.com/business/")}>
 <p custom-agua-item="text" className={styles['text-199-e551e739455d4c5e9cf1f874f4b50efe']}   >Apple and Business</p>
 </section>
@@ -672,10 +683,12 @@ support.apple.com/kb/HT209218.</p>
 <p custom-agua-item="text" className={styles['text-200-f59719457322441b80db3538fa0be2c2']}   >Shop for Business</p>
 </section>
 </section>
+</section>
 <section custom-agua-item="layer" className={styles['layer-417-d77c6556f2dd4373b21de1664279fe47']}   >
 <section custom-agua-item="layer" className={styles['layer-451-d0f4ddb5fe754bdeb57be54060949b65']}   >
 <p custom-agua-item="text" className={styles['text-201-6cdbbf082daa4d0e81a33ea7f2993df7']}   >For Education</p>
 </section>
+<section custom-agua-item="layer" className={styles['layer-607-26cc8daeffc94365bea64be8f616d5ba']}   >
 <section custom-agua-item="layer" className={styles['layer-452-34637fa92bc44e82b9cf197c56ab5034']}   onClick={() => openInNewTab("https://www.apple.com/education/")}>
 <p custom-agua-item="text" className={styles['text-202-611b36e9237f42c2826d6fc4f18999ee']}   >Apple and Education</p>
 </section>
@@ -686,10 +699,12 @@ support.apple.com/kb/HT209218.</p>
 <p custom-agua-item="text" className={styles['text-204-f7a90efac0b94486bcc322799e691ab9']}   >Shop for College</p>
 </section>
 </section>
+</section>
 <section custom-agua-item="layer" className={styles['layer-418-0137215b7ff947dfbfcec4863c947f11']}   >
 <section custom-agua-item="layer" className={styles['layer-455-231845ed77af4c33bfb00ddb604f92b3']}   >
 <p custom-agua-item="text" className={styles['text-205-6ede368a2e524bc894a1fb9513c39a7e']}   >For Healthcare</p>
 </section>
+<section custom-agua-item="layer" className={styles['layer-608-59e9d6f896b44d74a05d16cef4f04565']}   >
 <section custom-agua-item="layer" className={styles['layer-456-f0ce80ea33cb49a2b63b3962b20bf079']}   onClick={() => openInNewTab("https://www.apple.com/healthcare/")}>
 <p custom-agua-item="text" className={styles['text-206-c5192ab570e14424b5ab2afcec595775']}   >Apple in Healthcare</p>
 </section>
@@ -700,10 +715,12 @@ support.apple.com/kb/HT209218.</p>
 <p custom-agua-item="text" className={styles['text-208-b475f1f37bb645b18a3641cddd4edd26']}   >Health Records on iPhone</p>
 </section>
 </section>
+</section>
 <section custom-agua-item="layer" className={styles['layer-419-03c71ad96db74c349c403ca43c42dd57']}   >
 <section custom-agua-item="layer" className={styles['layer-459-03c5e9ecd27b4f2489fc402f1179a22a']}   >
 <p custom-agua-item="text" className={styles['text-209-01231710eba149f48f7f5c4f9787c831']}   >For Government</p>
 </section>
+<section custom-agua-item="layer" className={styles['layer-610-e92c4e9898a546ac83a065504b9ded4e']}   >
 <section custom-agua-item="layer" className={styles['layer-460-5a4827ba89ef4b689cbc875836e5571b']}   onClick={() => openInNewTab("https://www.apple.com/r/store/government/")}>
 <p custom-agua-item="text" className={styles['text-210-95c388ae048043ec801cbbfa2c707626']}   >Shop for Government</p>
 </section>
@@ -712,11 +729,13 @@ support.apple.com/kb/HT209218.</p>
 </section>
 </section>
 </section>
+</section>
 <section custom-agua-item="layer" className={styles['layer-393-0f2c61bef5e24673a517b3ab2d1066b1']}   >
 <section custom-agua-item="layer" className={styles['layer-420-756bc839048644fd905548ef9abf9cc8']}   >
 <section custom-agua-item="layer" className={styles['layer-462-76d4c87bc96243008668b8d5b28d6295']}   >
 <p custom-agua-item="text" className={styles['text-212-546b23b99e8d4b06b68a014136547c5a']}   >Apple Values</p>
 </section>
+<section custom-agua-item="layer" className={styles['layer-609-db699f7fe30247439872d694548b1fb0']}   >
 <section custom-agua-item="layer" className={styles['layer-463-ec74c610e52044468c638fdf75518ad1']}   onClick={() => openInNewTab("https://www.apple.com/accessibility/")}>
 <p custom-agua-item="text" className={styles['text-213-76bd0cf150d74d7e96eae2a8aa0c17fd']}   >Accessibility</p>
 </section>
@@ -739,10 +758,12 @@ support.apple.com/kb/HT209218.</p>
 <p custom-agua-item="text" className={styles['text-219-4ac90e568a0741e3b6c15df50ba82179']}   >Supplier Responsibility</p>
 </section>
 </section>
+</section>
 <section custom-agua-item="layer" className={styles['layer-421-ecef34a520fd434c8cdebc8bff1bc0af']}   >
 <section custom-agua-item="layer" className={styles['layer-470-381c0dd359b5447bbd449d3930866111']}   >
 <p custom-agua-item="text" className={styles['text-220-31b38ec2007e4b6ab4fc50cdb26820d7']}   >About Apple</p>
 </section>
+<section custom-agua-item="layer" className={styles['layer-611-a8917f86db574e4092798eb9e50003ea']}   >
 <section custom-agua-item="layer" className={styles['layer-471-e83788161bc448b4b7e6f196c33ea4ca']}   onClick={() => openInNewTab("https://www.apple.com/newsroom/")}>
 <p custom-agua-item="text" className={styles['text-221-b41ac2cad3944691a8ab0a439d32a2ee']}   >Newsroom</p>
 </section>
@@ -763,6 +784,7 @@ support.apple.com/kb/HT209218.</p>
 </section>
 <section custom-agua-item="layer" className={styles['layer-477-1673e9dcf92c47aa8e7797f6c25c295c']}   onClick={() => openInNewTab("https://www.apple.com/contact/")}>
 <p custom-agua-item="text" className={styles['text-227-98a69ecb260b47c487abe0b17312928d']}   >Contact Apple</p>
+</section>
 </section>
 </section>
 </section>

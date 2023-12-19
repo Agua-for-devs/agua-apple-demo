@@ -109,3 +109,11 @@ span[custom-agua-item="icon"] {
     'opsz' 24
 }
 
+:root {
+	--HeaderBackgroundColor: #1D1D1F;
+	--min-HeaderSizeVertical: 44px;
+	--HeaderSizeVertical: 44px;
+	--min-HeaderMarginHorizontal: 35px;
+	--HeaderMarginHorizontal: 35px;
+
+}
