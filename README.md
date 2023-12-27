@@ -8,7 +8,7 @@ Explore our platform following these simple steps!
 
 1. **Access our Deployed Agua Project Demo**: You can access our Apple Homepage Demo at [https://agua-apple-demo.agua.tools/](https://agua-apple-demo.agua.tools/).
 
-2. **Clone the Demo Repository**: Make a local copy of our demo repository and create your branch. Then, open the project folder in [editor.agua.app](https://editor.agua.app/). No registration is required to get started.
+2. **Fork the Demo Repository**: Make a local copy of our demo repository and create your branch. Then, open the project folder in [editor.agua.app](https://editor.agua.app/). No registration is required to get started.
 
 3. **Experiment with Our Tools**: Play around with the tools we offer, and once you're done, save your customized version of the Apple homepage. Your files will be updated locally.
 
