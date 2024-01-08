@@ -38,6 +38,8 @@ Visit our detailed [tutorial](https://docs.agua.dev/getting-started/quick-start/
 
 Follow the tutorial to learn how to apply the assets using Agua's React toolkit.
 
+Happy coding!
+
 ## Contributing
 
 We encourage contributions! If you have improvements or fixes, please open a pull request. 
