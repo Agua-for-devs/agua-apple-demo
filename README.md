@@ -12,8 +12,6 @@ For detailed instructions on how to open and manage files within the Agua web ed
 
 We encourage you to explore the contents of this branch and see how Agua can streamline your web development process.
 
-Happy coding!
-
 ## Deploying the Project Locally
 
 In order to deploy your the sample project locally, you can follow the steps from our docs:
