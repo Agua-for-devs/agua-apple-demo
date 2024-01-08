@@ -1,19 +1,46 @@
-# Welcome to Agua!
+# Apple Demo Webpage Project - Agua 
 
-We are building the toolbox for front-end developers.
+## Introduction
 
-## What Can You Build in Agua?
+Welcome to the Apple Demo Webpage Project repository, powered by Agua. This project aims to demonstrate how you can use Agua's platform to efficiently build and customize web interfaces. The repository contains all the assets you need to recreate a sample demo of the Apple webpage.
 
-Explore our platform following these simple steps!
+## Getting Started
 
-1. **Access our Deployed Agua Project Demo**: You can access our Apple Homepage Demo at [https://agua-apple-demo.agua.tools/](https://agua-apple-demo.agua.tools/).
+### Setup
 
-2. **Fork the Demo Repository**: Make a local copy of our demo repository and create your branch. Then, open the project folder in [editor.agua.app](https://editor.agua.app/). No registration is required to get started.
+#### Fork or Clone the Repository
+You can start by forking this repository or cloning it using:
 
-3. **Experiment with Our Tools**: Play around with the tools we offer, and once you're done, save your customized version of the Apple homepage. Your files will be updated locally.
+`git clone https://github.com/Agua-for-devs/agua-apple-demo.git`
 
-   To try out your custom interface locally:
-   - Run `npm install` and `npm start` inside the ".agua/generated" folder.
+#### Navigate to the Repository
+Change directory to your cloned repository:
+
+`cd apple-demo-agua`
+
+
+## Repository Structure
+
+- **Assets Branch (main):** Contains all the textual content and images required for the webpage.
+- **Sample Branch (sample):** Provides a reference Agua project showcasing the expected end result.
+
+### Important Directories and Files
+
+- **Assets Folder:** Located in the main branch, it includes a .txt document with all necessary texts and all the images for the webpage.
+
+## Building Your Version of the Webpage
+
+### Refer to the Documentation
+
+Visit our detailed [tutorial](https://docs.agua.dev/getting-started/quick-start/tutorial-apple) in our documentation for step-by-step guidance on using the assets to build the webpage.
+
+### Utilize Agua's Toolkit
+
+Follow the tutorial to learn how to apply the assets using Agua's React toolkit.
+
+## Contributing
+
+We encourage contributions! If you have improvements or fixes, please open a pull request. 
 
 ## Would You Like to Give Us Feedback?
 
@@ -21,35 +48,6 @@ Share your thoughts on new features and report bugs on our [interactive roadmap]
 
 We would also love to hear your feedback and suggestions. Book a 15-minute call with us at [agua.tools/meetings/developers/onboarding](https://agua.tools/meetings/developers/onboarding).
 
-Explore more at [www.agua.app](www.agua.app).
+Explore more at [www.agua.dev](https://www.agua.app).
 
 *Built by developers, for developers ❤️.*
-
----
-
-# Bienvenidx a Agua!
-
-Estamos construyendo la caja de herramientas para desarrolladores front-end.
-
-## ¿Qué Puedes Construir en Agua?
-
-Explora nuestra plataforma siguiendo estos sencillos pasos.
-
-1. **Accede a Nuestro Demo del Proyecto Agua**: Puedes acceder a nuestro Apple Homepage Demo en [https://agua-apple-demo.agua.tools/](https://agua-apple-demo.agua.tools/).
-
-2. **Clona el Repositorio de Demostración**: Haz una copia local de nuestro repositorio de demostración y crea tu propia rama. Luego, abre la carpeta del proyecto en [editor.agua.app](https://editor.agua.app/). No es necesario registrarse para comenzar.
-
-3. **Experimenta con Nuestras Herramientas**: Juega con las herramientas que ofrecemos y, una vez que hayas terminado, guarda tu versión personalizada del Homepage de Apple. Tus archivos se actualizarán localmente.
-
-   Para probar tu interfaz personalizada localmente:
-   - Ejecuta `npm install` y `npm start` dentro de la carpeta ".agua/generated".
-
-## ¿Te Gustaría Darnos Tu Opinión?
-
-Comparte tus ideas sobre nuevas características y reporta errores en nuestro [roadmap interactivo](https://roadmap.agua.app/).
-
-También nos encantaría escuchar tus comentarios y sugerencias. Reserva una llamada de 15 minutos con nosotros en [agua.tools/meetings/developers/onboarding](https://agua.tools/meetings/developers/onboarding).
-
-Explora más en [www.agua.app](www.agua.app).
-
-*Construido por desarrolladores, para desarrolladores ❤️.*
